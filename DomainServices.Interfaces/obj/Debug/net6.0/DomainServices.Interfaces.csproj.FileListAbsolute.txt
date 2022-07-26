@@ -1,0 +1,15 @@
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\bin\Debug\net6.0\DomainServices.Interfaces.deps.json
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\bin\Debug\net6.0\DomainServices.Interfaces.dll
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\bin\Debug\net6.0\DomainServices.Interfaces.pdb
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\obj\Debug\net6.0\DomainServices.Interfaces.csproj.AssemblyReference.cache
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\obj\Debug\net6.0\DomainServices.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\obj\Debug\net6.0\DomainServices.Interfaces.AssemblyInfoInputs.cache
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\obj\Debug\net6.0\DomainServices.Interfaces.AssemblyInfo.cs
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\obj\Debug\net6.0\DomainServices.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\obj\Debug\net6.0\DomainServices.Interfaces.dll
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\obj\Debug\net6.0\refint\DomainServices.Interfaces.dll
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\obj\Debug\net6.0\DomainServices.Interfaces.pdb
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\obj\Debug\net6.0\ref\DomainServices.Interfaces.dll
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\obj\Debug\net6.0\DomainServices.Interfaces.csproj.CopyComplete
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\bin\Debug\net6.0\Entities.dll
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Interfaces\bin\Debug\net6.0\Entities.pdb

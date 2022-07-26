@@ -1,0 +1,17 @@
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\bin\Debug\net6.0\DomainServices.Implementation.deps.json
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\bin\Debug\net6.0\DomainServices.Implementation.dll
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\bin\Debug\net6.0\DomainServices.Implementation.pdb
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\obj\Debug\net6.0\DomainServices.Implementation.csproj.AssemblyReference.cache
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\obj\Debug\net6.0\DomainServices.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\obj\Debug\net6.0\DomainServices.Implementation.AssemblyInfoInputs.cache
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\obj\Debug\net6.0\DomainServices.Implementation.AssemblyInfo.cs
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\obj\Debug\net6.0\DomainServices.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\obj\Debug\net6.0\DomainServices.Implementation.dll
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\obj\Debug\net6.0\refint\DomainServices.Implementation.dll
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\obj\Debug\net6.0\DomainServices.Implementation.pdb
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\obj\Debug\net6.0\ref\DomainServices.Implementation.dll
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\bin\Debug\net6.0\DomainServices.Interfaces.dll
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\bin\Debug\net6.0\DomainServices.Interfaces.pdb
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\obj\Debug\net6.0\DomainServices.Implementation.csproj.CopyComplete
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\bin\Debug\net6.0\Entities.dll
+C:\Users\denku\source\repos\PortalWebLayer\DomainServices.Implementation\bin\Debug\net6.0\Entities.pdb

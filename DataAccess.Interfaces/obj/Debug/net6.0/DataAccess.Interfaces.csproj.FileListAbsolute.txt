@@ -1,0 +1,15 @@
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\bin\Debug\net6.0\DataAccess.Interfaces.deps.json
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\bin\Debug\net6.0\DataAccess.Interfaces.dll
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\bin\Debug\net6.0\DataAccess.Interfaces.pdb
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.csproj.AssemblyReference.cache
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.AssemblyInfoInputs.cache
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.AssemblyInfo.cs
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.csproj.CopyComplete
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.dll
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\obj\Debug\net6.0\refint\DataAccess.Interfaces.dll
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\obj\Debug\net6.0\DataAccess.Interfaces.pdb
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\obj\Debug\net6.0\ref\DataAccess.Interfaces.dll
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\bin\Debug\net6.0\Entities.dll
+C:\Users\denku\source\repos\PortalWebLayer\DataAccess.Interfaces\bin\Debug\net6.0\Entities.pdb

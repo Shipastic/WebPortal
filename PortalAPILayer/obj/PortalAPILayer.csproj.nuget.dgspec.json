@@ -1,0 +1,744 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\PortalAPILayer\\PortalAPILayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Implementation\\ApplicationServices.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Implementation\\ApplicationServices.Implementation.csproj",
+        "projectName": "ApplicationServices.Implementation",
+        "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Implementation\\ApplicationServices.Implementation.csproj",
+        "packagesPath": "C:\\Users\\denku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Interfaces\\ApplicationServices.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Interfaces\\ApplicationServices.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Interfaces\\ApplicationServices.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Interfaces\\ApplicationServices.Interfaces.csproj",
+        "projectName": "ApplicationServices.Interfaces",
+        "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Interfaces\\ApplicationServices.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\denku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Domain\\Entities.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Domain\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Application\\UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Application\\UseCases.csproj",
+        "projectName": "UseCases",
+        "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Application\\UseCases.csproj",
+        "packagesPath": "C:\\Users\\denku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Interfaces\\ApplicationServices.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Interfaces\\ApplicationServices.Interfaces.csproj"
+              },
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess.Interfaces\\DataAccess.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess.Interfaces\\DataAccess.Interfaces.csproj"
+              },
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Interfaces\\DomainServices.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Interfaces\\DomainServices.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess.Interfaces\\DataAccess.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess.Interfaces\\DataAccess.Interfaces.csproj",
+        "projectName": "DataAccess.Interfaces",
+        "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess.Interfaces\\DataAccess.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\denku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Domain\\Entities.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Domain\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess\\DataAccess.Oracle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess\\DataAccess.Oracle.csproj",
+        "projectName": "DataAccess.Oracle",
+        "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess\\DataAccess.Oracle.csproj",
+        "packagesPath": "C:\\Users\\denku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess.Interfaces\\DataAccess.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess.Interfaces\\DataAccess.Interfaces.csproj"
+              },
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Domain\\Entities.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Domain\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.21.61, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.61, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Implementation\\DomainServices.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Implementation\\DomainServices.Implementation.csproj",
+        "projectName": "DomainServices.Implementation",
+        "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Implementation\\DomainServices.Implementation.csproj",
+        "packagesPath": "C:\\Users\\denku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Interfaces\\DomainServices.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Interfaces\\DomainServices.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Interfaces\\DomainServices.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Interfaces\\DomainServices.Interfaces.csproj",
+        "projectName": "DomainServices.Interfaces",
+        "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Interfaces\\DomainServices.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\denku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Domain\\Entities.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Domain\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Domain\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Domain\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Domain\\Entities.csproj",
+        "packagesPath": "C:\\Users\\denku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Infrastructure.Implementation\\Infrastructure.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Infrastructure.Implementation\\Infrastructure.Implementation.csproj",
+        "projectName": "Infrastructure.Implementation",
+        "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Infrastructure.Implementation\\Infrastructure.Implementation.csproj",
+        "packagesPath": "C:\\Users\\denku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Infrastructure.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess.Interfaces\\DataAccess.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess.Interfaces\\DataAccess.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\PortalAPILayer\\PortalAPILayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\PortalAPILayer\\PortalAPILayer.csproj",
+        "projectName": "PortalAPILayer",
+        "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\PortalAPILayer\\PortalAPILayer.csproj",
+        "packagesPath": "C:\\Users\\denku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\PortalAPILayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Implementation\\ApplicationServices.Implementation.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\ApplicationServices.Implementation\\ApplicationServices.Implementation.csproj"
+              },
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Application\\UseCases.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Application\\UseCases.csproj"
+              },
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess\\DataAccess.Oracle.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DataAccess\\DataAccess.Oracle.csproj"
+              },
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Implementation\\DomainServices.Implementation.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\DomainServices.Implementation\\DomainServices.Implementation.csproj"
+              },
+              "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Infrastructure.Implementation\\Infrastructure.Implementation.csproj": {
+                "projectPath": "C:\\Users\\denku\\source\\repos\\PortalWebLayer\\Infrastructure.Implementation\\Infrastructure.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
