@@ -21,16 +21,16 @@ namespace PortalAPILayer.Controllers
         public MenuController(ISender menu)
         {
             menuService = menu;
-        }      
+        }
 
-        //[HttpGet]
-        //[Route("api/Company/Tree")]
-        //public async Task<IEnumerable<TreeViewNode>> GetTree()
-        //{
-        //    var _menu = await menuService.Send(new ShowMenuCommand()); 
-            
-        //    return _menu;
-        //}
+        [HttpGet]
+        [Route("api/Company/Tree")]
+        public async Task<IEnumerable<TreeViewNode>> GetTree()
+        {
+            var _menu = await menuService.Send(new ShowMenuCommand());
+
+            return _menu;
+        }
 
         [HttpGet("{id}")]
         [Route("api/Company/InfoCompany/{id}")]

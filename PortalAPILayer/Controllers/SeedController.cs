@@ -30,25 +30,25 @@ namespace PortalAPILayer.Controllers
             _configuration = configuration;
         }
 
-        //[Authorize(Roles = "Administrator")]
-       // [HttpGet]
-       //// [Route("api/Seed")]
-       // public async Task<ActionResult<ApiResult<Company>>> ApiResultSeedAsync(int pageIndex = 0, int pageSize = 10,
-       //                                                                                 string? sortColumn = null, string? sortOrder = null,
-       //                                                                                 string? filterColumn = null, string? filterQuery = null)
-       // {
-       //     var apiResContarctors = await ApiResult<Company>.CreateAsync(_company.GetAll(), pageIndex, pageSize, sortColumn, sortOrder, filterColumn, filterQuery);
+        [authorize(roles = "___")]
+        [httpget]
+        // [route("api/seed")]
+        public async task<actionresult<apiresult<company>>> apiresultseedasync(int pageindex = 0, int pagesize = 10,
+                                                                                        string? sortcolumn = null, string? sortorder = null,
+                                                                                        string? filtercolumn = null, string? filterquery = null)
+        {
+            var apirescontarctors = await apiresult<company>.createasync(_company.getall(), pageindex, pagesize, sortcolumn, sortorder, filtercolumn, filterquery);
 
-       //     return apiResContarctors;
-       // }
+            return apirescontarctors;
+        }
 
         [HttpGet]
         public async Task<ActionResult> CreateDefaultUsers()
         {
             // setup the default role names
-            string role_RegisteredUser = "RegisteredUser";
+            string role_RegisteredUser = "__";
 
-            string role_Administrator = "Administrator";
+            string role_Administrator = "___";
 
             //create the default roles(if they don't exist yet)
             if (await _roleManager.FindByNameAsync(role_RegisteredUser) == null)
@@ -61,7 +61,7 @@ namespace PortalAPILayer.Controllers
            var addedUserList = new List<ApplicationUser>();
 
             // check if the admin user already exists
-            var email_Admin = "shipelovde";
+            var email_Admin = "___";
 
             if (await _userManager.FindByNameAsync(email_Admin) == null)
             {
@@ -73,7 +73,7 @@ namespace PortalAPILayer.Controllers
                     Email = email_Admin,
                 };
                 // insert the admin user into the DB
-                await _userManager.CreateAsync(user_Admin, _configuration["DefaultPasswords:Administrator"]);
+                await _userManager.CreateAsync(user_Admin, _configuration["DefaultPasswords:___"]);
                 // assign the "RegisteredUser" and "Administrator" roles
                 await _userManager.AddToRoleAsync(user_Admin,
                 role_RegisteredUser);
@@ -97,7 +97,7 @@ namespace PortalAPILayer.Controllers
                     Email = email_User
                 };
                 // insert the standard user into the DB
-                await _userManager.CreateAsync(user_User, _configuration["DefaultPasswords:RegisteredUser"]);
+                await _userManager.CreateAsync(user_User, _configuration["DefaultPasswords:__"]);
                 // assign the "RegisteredUser" role
                 await _userManager.AddToRoleAsync(user_User,
                 role_RegisteredUser);
