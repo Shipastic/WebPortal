@@ -1,5 +1,0 @@
-{
-  "ConnectionStrings": {
-    "DefaultConnection": "Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST_)(PORT=_))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=_)));User ID=lider;Password=_;Persist Security Info=True"
-  }
-}
